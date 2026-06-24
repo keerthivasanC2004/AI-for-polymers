@@ -1,0 +1,365 @@
+{
+  "generated_at": "2026-06-24T14:34:05Z",
+  "status": "live",
+  "source": "OpenAlex API",
+  "lookback_days": 120,
+  "unresolved": [
+    {
+      "researcher_id": "christopher-kuenneth",
+      "name": "Christopher Kuenneth",
+      "reason": "identity or affiliation requires review"
+    },
+    {
+      "researcher_id": "lihua-chen",
+      "name": "Lihua Chen",
+      "reason": "identity or affiliation requires review"
+    },
+    {
+      "researcher_id": "rohit-batra",
+      "name": "Rohit Batra",
+      "reason": "identity or affiliation requires review"
+    },
+    {
+      "researcher_id": "chiho-kim",
+      "name": "Chiho Kim",
+      "reason": "identity or affiliation requires review"
+    },
+    {
+      "researcher_id": "ying-li",
+      "name": "Ying Li",
+      "reason": "identity or affiliation requires review"
+    },
+    {
+      "researcher_id": "w-sha",
+      "name": "W. Sha",
+      "reason": "identity or affiliation requires review"
+    }
+  ],
+  "failures": [],
+  "items": [
+    {
+      "researcher_id": "jiaping-lin",
+      "author": "Jiaping Lin",
+      "title": "Special Issue on Artificial Intelligence in Polymer Science",
+      "publication_date": "2026-06-21",
+      "venue": "Macromolecular Rapid Communications",
+      "url": "https://doi.org/10.1002/marc.70309",
+      "relevance": "Automated polymer/AI relevance score: 11",
+      "confidence": "high",
+      "openalex_author_id": "A5085254274",
+      "openalex_work_id": "W7165478123"
+    },
+    {
+      "researcher_id": "debra-audus",
+      "author": "Katharina A. Fransen, Julia Casey, Gabrielle Godbille‐Cardona et al.",
+      "title": "Structure–Property Relationships for Biodegradabilityin Copolyesters",
+      "publication_date": "2026-06-18",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.1021/acs.macromol.5c03562.s002",
+      "relevance": "Automated polymer/AI relevance score: 8",
+      "confidence": "high",
+      "openalex_author_id": "A5005951766",
+      "openalex_work_id": "W7165366269"
+    },
+    {
+      "researcher_id": "debra-audus",
+      "author": "Katharina A. Fransen, Julia Casey, Gabrielle Godbille‐Cardona et al.",
+      "title": "Structure–Property Relationships for Biodegradabilityin Copolyesters",
+      "publication_date": "2026-06-18",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.1021/acs.macromol.5c03562.s001",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5005951766",
+      "openalex_work_id": "W7165375410"
+    },
+    {
+      "researcher_id": "debra-audus",
+      "author": "Katharina A. Fransen, Julia Casey, Gabrielle Godbille‐Cardona et al.",
+      "title": "Structure–Property Relationships for Biodegradability in Copolyesters",
+      "publication_date": "2026-06-18",
+      "venue": "Macromolecules",
+      "url": "https://doi.org/10.1021/acs.macromol.5c03562",
+      "relevance": "Automated polymer/AI relevance score: 8",
+      "confidence": "high",
+      "openalex_author_id": "A5005951766",
+      "openalex_work_id": "W7165151486"
+    },
+    {
+      "researcher_id": "heather-kulik",
+      "author": "Heejung Roh, Simone Bagatella, Shuwen Yue et al.",
+      "title": "Side-Chain-Based Cross-Linking of Amorphous Iono-Electronic Conductive Polymers for Thermo-Chemical Stability in Electrochemical Devices",
+      "publication_date": "2026-06-18",
+      "venue": "ACS Applied Materials & Interfaces",
+      "url": "https://doi.org/10.1021/acsami.6c05214",
+      "relevance": "Automated polymer/AI relevance score: 10",
+      "confidence": "high",
+      "openalex_author_id": "A5050671822",
+      "openalex_work_id": "W7165127625"
+    },
+    {
+      "researcher_id": "juan-de-pablo",
+      "author": "Jiehao Chen, Tengzhou Ma, Juhae Park et al.",
+      "title": "Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics",
+      "publication_date": "2026-06-17",
+      "venue": "ChemRxiv",
+      "url": "https://doi.org/10.26434/chemrxiv.15004847/v1",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "medium",
+      "openalex_author_id": "A5068853530",
+      "openalex_work_id": "W7165044759"
+    },
+    {
+      "researcher_id": "liquan-wang",
+      "author": "Ruiqi Jin (17799179), Jing Liu (38537), Y U A N Du et al.",
+      "title": "Regulatingthe Topology of Polypeptide Nanotoroidsthrough Solvent-Triggered Nanofiber Twisting",
+      "publication_date": "2026-06-16",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.1021/acs.macromol.6c00499.s001",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5074842570",
+      "openalex_work_id": "W7165186347"
+    },
+    {
+      "researcher_id": "liquan-wang",
+      "author": "Ruiqi Jin, J Liu, Yue Du et al.",
+      "title": "Regulating the Topology of Polypeptide Nanotoroids through Solvent-Triggered Nanofiber Twisting",
+      "publication_date": "2026-06-15",
+      "venue": "Macromolecules",
+      "url": "https://doi.org/10.1021/acs.macromol.6c00499",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5074842570",
+      "openalex_work_id": "W7164896165"
+    },
+    {
+      "researcher_id": "jeremiah-johnson",
+      "author": "Zhenchuang Xu, Edgar B. Mejia, Terry Price et al.",
+      "title": "Chain entanglements enable regeneration of high-performance thermosets",
+      "publication_date": "2026-06-15",
+      "venue": "Nature Materials",
+      "url": "https://doi.org/10.1038/s41563-026-02646-y",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5058975949",
+      "openalex_work_id": "W7164852756"
+    },
+    {
+      "researcher_id": "jeremiah-johnson",
+      "author": "Adithya N Sreenivasan, Pengfei Cai, Jeremiah A. Johnson",
+      "title": "Topology-Informed Design Rules for Deconstructable Thermoset Copolymer Networks",
+      "publication_date": "2026-06-11",
+      "venue": "ChemRxiv",
+      "url": "https://doi.org/10.26434/chemrxiv.15003272/v2",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5058975949",
+      "openalex_work_id": "W7164327418"
+    },
+    {
+      "researcher_id": "juan-de-pablo",
+      "author": "Kenji Yoshimoto, Takeshi Sato, Umi Yamamoto et al.",
+      "title": "Effect of ensemble averaging on Green–Kubo estimation of short-time stress relaxation modulus in all-atom molecular dynamics simulations of an unentangled polymer melt",
+      "publication_date": "2026-06-08",
+      "venue": "The Journal of Chemical Physics",
+      "url": "https://doi.org/10.1063/5.0317145",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "medium",
+      "openalex_author_id": "A5068853530",
+      "openalex_work_id": "W7163920906"
+    },
+    {
+      "researcher_id": "jeffrey-moore",
+      "author": "Janice M. Baek, Rui Zhang, Toby Woods et al.",
+      "title": "Length-Dependent Assembly and Chiral Emergence of Precise Donor-Acceptor Conjugated Oligomers",
+      "publication_date": "2026-06-08",
+      "venue": "ChemRxiv",
+      "url": "https://doi.org/10.26434/chemrxiv.15004466/v1",
+      "relevance": "Automated polymer/AI relevance score: 10",
+      "confidence": "high",
+      "openalex_author_id": "A5082797451",
+      "openalex_work_id": "W7163870835"
+    },
+    {
+      "researcher_id": "liquan-wang",
+      "author": "Tianyi Wang, Huajiang Xu, Jiaping Lin",
+      "title": "Temperature-Dependent Coarse-Grained Force Field for Polymethacrylate-Based Copolymers: Sequence- and Composition-Dependent Glass Transition Temperatures",
+      "publication_date": "2026-06-04",
+      "venue": "Macromolecules",
+      "url": "https://doi.org/10.1021/acs.macromol.6c00357",
+      "relevance": "Automated polymer/AI relevance score: 10",
+      "confidence": "high",
+      "openalex_author_id": "A5074842570",
+      "openalex_work_id": "W7163542481"
+    },
+    {
+      "researcher_id": "juan-de-pablo",
+      "author": "Mincheol Kim, Ge Sun (332789), Zhiying Yi et al.",
+      "title": "Origins of EnhancedIon Transport in NanostructuredAnion-Conducting Polyelectrolytes",
+      "publication_date": "2026-06-03",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.1021/jacs.6c05179.s001",
+      "relevance": "Automated polymer/AI relevance score: 7",
+      "confidence": "medium",
+      "openalex_author_id": "A5068853530",
+      "openalex_work_id": "W7163756081"
+    },
+    {
+      "researcher_id": "stephen-craig",
+      "author": "Zhen Sang, Suong Nguyen, Kwangwook Ko et al.",
+      "title": "Mechanophore cross-linking enhances ballistic energy dissipation of polymers",
+      "publication_date": "2026-06-03",
+      "venue": "Nature",
+      "url": "https://doi.org/10.1038/s41586-026-10557-w",
+      "relevance": "Automated polymer/AI relevance score: 21",
+      "confidence": "high",
+      "openalex_author_id": "A5081394467",
+      "openalex_work_id": "W7163392904"
+    },
+    {
+      "researcher_id": "khalid-ferji",
+      "author": "Hyun Jung Lee, Saye Niang, Khalid Ferji et al.",
+      "title": "Stabilizing effect of bis-hydrophilic diblock copolymer in water-in-water emulsions",
+      "publication_date": "2026-06-01",
+      "venue": "Journal of Molecular Liquids",
+      "url": "https://doi.org/10.1016/j.molliq.2026.129708",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5044202299",
+      "openalex_work_id": "W7163048095"
+    },
+    {
+      "researcher_id": "jeremiah-johnson",
+      "author": "Gaoyang Liang, Hung VT Nguyen, Jonathan Zhu et al.",
+      "title": "HDAC Inhibition Sensitizes Pancreatic Tumors to DNA Damage by Global Redistribution of the Transcriptional Machinery",
+      "publication_date": "2026-05-19",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "url": "https://doi.org/10.64898/2026.05.18.726071",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5058975949",
+      "openalex_work_id": "W7161716987"
+    },
+    {
+      "researcher_id": "rampi-ramprasad",
+      "author": "Sakshi Agarwal, Wei Xiong, Rampi Ramprasad",
+      "title": "polyRETRO: a language model approach to predict polymerization class and monomers for a target polymer",
+      "publication_date": "2026-05-08",
+      "venue": "npj Artificial Intelligence",
+      "url": "https://doi.org/10.1038/s44387-026-00113-2",
+      "relevance": "Automated polymer/AI relevance score: 11",
+      "confidence": "high",
+      "openalex_author_id": "A5031952600",
+      "openalex_work_id": "W4417141634"
+    },
+    {
+      "researcher_id": "jeffrey-moore",
+      "author": "Zhenchuang Xu, Edgar B. Mejia, Tyler C. Price et al.",
+      "title": "Entanglement-Dominated Thermosets Enable High Performance with High-Fidelity Regeneration",
+      "publication_date": "2026-04-29",
+      "venue": "ChemRxiv",
+      "url": "https://doi.org/10.26434/chemrxiv.15002537/v1",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5082797451",
+      "openalex_work_id": "W7159668825"
+    },
+    {
+      "researcher_id": "vani-nigam",
+      "author": "Vani Nigam, Achuth Chandrasekhar, Amir Barati Farimani",
+      "title": "Polymer-Agent: Large Language Model Agent for Polymer Design",
+      "publication_date": "2026-04-28",
+      "venue": "Journal of Chemical Information and Modeling",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00343",
+      "relevance": "Automated polymer/AI relevance score: 11",
+      "confidence": "high",
+      "openalex_author_id": "A5099164751",
+      "openalex_work_id": "W7157539620"
+    },
+    {
+      "researcher_id": "amir-barati-farimani",
+      "author": "Zijie Li, Anthony Zhou, Amir Barati Farimani",
+      "title": "Generative latent neural PDE solver using flow matching",
+      "publication_date": "2026-04-24",
+      "venue": "Machine Learning Science and Technology",
+      "url": "https://doi.org/10.1088/2632-2153/ae64aa",
+      "relevance": "Automated polymer/AI relevance score: 8",
+      "confidence": "high",
+      "openalex_author_id": "A5008745801",
+      "openalex_work_id": "W4416424523"
+    },
+    {
+      "researcher_id": "harikrishna-sahu",
+      "author": "Madhubanti Mukherjee, Rampi Ramprasad, Harikrishna Sahu",
+      "title": "Load-dependent Hardness Prediction for Materials using Machine Learning",
+      "publication_date": "2026-04-22",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://arxiv.org/abs/2604.20636",
+      "relevance": "Automated polymer/AI relevance score: 6",
+      "confidence": "high",
+      "openalex_author_id": "A5079402670",
+      "openalex_work_id": "W7155574059"
+    },
+    {
+      "researcher_id": "harikrishna-sahu",
+      "author": "Madhubanti Mukherjee, Rampi Ramprasad, Harikrishna Sahu",
+      "title": "Load-dependent Hardness Prediction for Materials using Machine Learning",
+      "publication_date": "2026-04-22",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2604.20636",
+      "relevance": "Automated polymer/AI relevance score: 6",
+      "confidence": "high",
+      "openalex_author_id": "A5079402670",
+      "openalex_work_id": "W7155361875"
+    },
+    {
+      "researcher_id": "aikaterini-vriza",
+      "author": "Aikaterini Vriza, Michael H. Prince, Tao Zhou et al.",
+      "title": "Operating advanced scientific instruments with AI agents that learn on the job",
+      "publication_date": "2026-03-06",
+      "venue": "npj Computational Materials",
+      "url": "https://doi.org/10.1038/s41524-026-02005-0",
+      "relevance": "Automated polymer/AI relevance score: 6",
+      "confidence": "high",
+      "openalex_author_id": "A5020243467",
+      "openalex_work_id": "W7134059863"
+    },
+    {
+      "researcher_id": "harikrishna-sahu",
+      "author": "Harikrishna Sahu, Wei Xiong, Anagha Savit et al.",
+      "title": "POLYT5: an encoder-decoder foundation chemical language model for generative polymer design",
+      "publication_date": "2026-03-03",
+      "venue": "npj Artificial Intelligence",
+      "url": "https://doi.org/10.1038/s44387-026-00087-1",
+      "relevance": "Automated polymer/AI relevance score: 13",
+      "confidence": "high",
+      "openalex_author_id": "A5079402670",
+      "openalex_work_id": "W7133302314"
+    },
+    {
+      "researcher_id": "heather-kulik",
+      "author": "Tomoaki Sakurada, Woo Seok Lee, Yeongsu Cho et al.",
+      "title": "Engineering in-plane anisotropy in 2D materials via surface-bound ligands",
+      "publication_date": "2026-02-26",
+      "venue": "arXiv (Cornell University)",
+      "url": "http://arxiv.org/abs/2602.23138",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5050671822",
+      "openalex_work_id": "W7131910039"
+    },
+    {
+      "researcher_id": "heather-kulik",
+      "author": "Tomoaki Sakurada, Woo Seok Lee, Yeongsu Cho et al.",
+      "title": "Engineering in-plane anisotropy in 2D materials via surface-bound ligands",
+      "publication_date": "2026-02-26",
+      "venue": "Open MIND",
+      "url": "https://doi.org/10.48550/arxiv.2602.23138",
+      "relevance": "Automated polymer/AI relevance score: 5",
+      "confidence": "high",
+      "openalex_author_id": "A5050671822",
+      "openalex_work_id": "W7131890359"
+    }
+  ]
+}
