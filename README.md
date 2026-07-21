@@ -24,6 +24,17 @@ The initial researcher list was seeded from a user-supplied compilation and revi
 
 The daily feed is intended for discovery. OpenAlex metadata can contain author, affiliation, or venue errors, so important records should be confirmed at the DOI or publisher page.
 
+## Polymer data registry, 2025-2026
+
+The audited polymer datasets and repositories are separated into maintained collections:
+
+- [Large-scale / more-data sources](data-registry/2025-2026/LARGE_SCALE.md)
+- [Highly curated / modeling-ready sources](data-registry/2025-2026/HIGHLY_CURATED.md)
+- [Specialized, embargoed, or provenance-review sources](data-registry/2025-2026/EXTERNAL_AND_REVIEW.md)
+- [GitHub fork queue and account status](data-registry/2025-2026/FORK_QUEUE.md)
+
+The [registry overview](data-registry/2025-2026/README.md) explains the classification thresholds and how non-GitHub datasets are tracked.
+
 ## Local preview
 
 ```bash
